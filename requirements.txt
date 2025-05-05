@@ -1,0 +1,6 @@
+gTTS
+pyaudio
+playsound==1.2.2
+deep-translator
+SpeechRecognition
+google-transliteration-api
